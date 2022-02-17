@@ -1,2 +1,3 @@
 # Lendas-da-noite
-jogo pvp ninja 
+É um jogo de pvp ninja 
+foi feito para o entrentedimento!
